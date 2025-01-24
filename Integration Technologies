@@ -1,10 +1,40 @@
-In the following, these are the key points of the Research where we can easily understand the research better.
-• The article discusses about the redesigning of a cloud computing undergraduate module in partnership with Amazon Web Services (AWS) Academy, including industry-based practical labs to improving the engineering students skills in the Internet of Things.
-• This is because in this study they find that students can participate and learn when abstract knowledge and understanding are combined together in real life situations through industry connections. 
-• Rising university tuition fees in the UK and USA are a concern for students and their families.
-• UK tuition fees tripled in 2015, with home students paying at least GBP 9,000 (USD 13,800) per year, and international students paying a minimum of GBP 14,000 (USD 17,800).
-• Universities in the UK can charge higher fees depending on the course; for instance, Russell Group universities charge international students up to GBP 23,700 for engineering programs.
-• Parents and students demand improved education quality, including better resources, learning experiences, and job opportunities to justify the fee increases.
-• Universities argue that increased fees are necessary to provide industry-relevant skills, particularly in fields like cloud computing.
-• Queen Mary University of London partnered with AWS Academy to enhance its cloud computing curriculum, offering hands-on labs and industry expertise.
-• The partnership includes AWS Certified Cloud Practitioner training for instructors and exposure to career paths, internships, and employment opportunities for students.
+Enhancing Student Employability in Collaboration with the 
+Industry: Case Study of a Partnership with 
+Amazon Web Services Academy
+
+The following are the keypoints of this article:
+・A cloud computing module was redesigned to integrate industry-based hands-on labs, 
+improving student engagement and skills by combining theoretical knowledge 
+with practical experience, which enhances employability in cloud computing.
+・Rising Tuition Fees - tuition fees in the UK and US have increased significantly, 
+leading to concerns from students, parents, and guardians
+・Rising Justification for Fee Increase -students and parents are demanding 
+improved education quality, more resources, and job opportunities to
+ justify the higher tuition costs.
+・Employability Demands Graduates need more than subject-specific 
+knowledge to secure jobs. Employers are seeking graduates with 
+the right skills, knowledge, and attitudes to be "work-ready."
+・Industry Involvement in Curriculum Design Involving employers in 
+curriculum design ensures graduates acquire the necessary employability skills,
+ leading to better employment outcomes. Work experience during 
+studies also boosts employability.
+・Student Engagement and Learning Tools E-learning platforms, such as AWS Academy’s, 
+include user-friendly dashboards and performance prediction tools, 
+enhancing student engagement and providing insights for
+nstructors to monitor progress. Social aspects of LMS platforms 
+help create a balanced and interactive learning environment.
+
+By designing the cloud computing lectures, it was mentioned that this study 
+focuses on designing a cloud computing curriculum at 
+Queen Mary University of London (QMUL) in alignment with the university's strategic aims,
+ particularly around education and employability. The curriculum integrates hands-on
+ practical skills via AWS Academy’s LMS, which is used to teach students 
+about key cloud computing topics like virtualization, scalability, 
+and data analytics. Labs and tests make up 25% of the overall 
+exam marks to encourage engagement. The curriculum also 
+incorporates employability by mapping skills to various career paths 
+in cloud computing. International comparisons were made with top universities
+to ensure the course covers essential cloud computing topics, 
+and new technologies like GPUs and CUDA programming were added. 
+This approach aims to equip students with both 
+theoretical knowledge and practical skills to enhance their job readiness.
